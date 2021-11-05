@@ -1,0 +1,18 @@
+h1 {
+    color: darkorange;
+}
+
+p {
+    color: black;
+}
+
+.cheat {
+    background-color: lightcyan ;
+    color: orange;
+    border: 5px solid orchid;
+    padding: 20px;
+}
+
+div{
+    background-color: aqua;
+}
